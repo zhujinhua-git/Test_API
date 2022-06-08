@@ -1,0 +1,21 @@
+[2022-05-11 16:09:36,175][db_conncet.py 10][INFO]: 数据库的登陆信息是{'host': '121.41.54.234', 'user': 'fastapi', 'password': '123456', 'port': '3306', 'database': 'fastapi'}
+[2022-05-11 16:11:03,556][db_conncet.py 10][INFO]: 数据库的登陆信息是{'host': '121.41.54.234', 'user': 'fastapi', 'password': '123456', 'port': 3306, 'database': 'fastapi'}
+[2022-05-11 16:11:53,850][db_conncet.py 10][INFO]: 数据库的登陆信息是{'host': '121.41.54.234', 'user': 'fastapi', 'password': '123456', 'port': 3306, 'database': 'fastapi'}
+[2022-05-11 16:12:04,794][db_conncet.py 10][INFO]: 数据库的登陆信息是{'host': '121.41.54.234', 'user': 'fastapi', 'password': '123456', 'port': 3306, 'database': 'fastapi'}
+[2022-05-11 16:12:31,535][db_conncet.py 10][INFO]: 数据库的登陆信息是{'host': '121.41.54.234', 'user': 'fastapi', 'password': '123456', 'port': 3306, 'database': 'fastapi'}
+[2022-05-11 16:12:58,052][db_conncet.py 10][INFO]: 数据库的登陆信息是{'host': '121.41.54.234', 'user': 'fastapi', 'password': '123456', 'port': 3306, 'database': 'fastapi'}
+[2022-05-11 17:22:40,869][assert.py 24][ERROR]: statusCode error, expected_code is 2, statusCode is 1 
+[2022-05-11 17:23:17,702][assert.py 24][ERROR]: statusCode error, expected_code is 2, statusCode is 1 
+[2022-05-11 17:23:18,984][assert.py 24][ERROR]: statusCode error, expected_code is 2, statusCode is 1 
+[2022-05-11 17:23:23,684][assert.py 24][ERROR]: statusCode error, expected_code is 2, statusCode is 1 
+[2022-05-11 17:24:27,497][assert.py 24][ERROR]: statusCode error, expected_code is 2, statusCode is 1 
+[2022-05-11 17:24:52,462][assert.py 24][ERROR]: statusCode error, expected_code is 2, statusCode is 1 
+[2022-05-11 17:24:53,966][assert.py 24][ERROR]: statusCode error, expected_code is 2, statusCode is 1 
+[2022-05-11 17:25:21,732][assert.py 24][ERROR]: statusCode error, expected_code is 2, statusCode is 1 
+[2022-05-11 17:26:01,984][assert.py 24][ERROR]: statusCode error, expected_code is 2, statusCode is 1 
+[2022-05-11 17:27:00,385][assert.py 24][ERROR]: statusCode error, expected_code is 2, statusCode is 1 
+[2022-05-11 17:27:15,465][assert.py 24][ERROR]: statusCode error, expected_code is 2, statusCode is 1 
+[2022-05-11 17:27:53,826][assert.py 24][ERROR]: statusCode error, expected_code is 2, statusCode is 1 
+[2022-05-11 17:27:53,826][assert.py 62][ERROR]: Response body Does not contain expected_msg, expected_msg is abc
+[2022-05-11 17:28:14,610][assert.py 24][ERROR]: statusCode error, expected_code is 2, statusCode is 1 
+[2022-05-11 17:28:14,610][assert.py 62][ERROR]: Response body Does not contain expected_msg, expected_msg is abc
